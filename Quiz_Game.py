@@ -1,4 +1,4 @@
-#python quiz game
+#my python quiz game
 questions  = (
     'What is Vanessa full name: ',
     'What are her dream jobs?: ',
